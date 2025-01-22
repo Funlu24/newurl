@@ -14,7 +14,7 @@ const urlDatabase: Record<string, string> = {}; //url kayıt etmek için
 
 /*app.post("/shorten", (req, res) => {
   // app logıc
-  console.log(req.body); //kullanıcının girdiği url
+  console.log(req.body); //kullanıcının girdiği url'yi alır.
   res.json({ error: "Hem uzun URL hem de özel kısa URL gereklidir." });
 */
 /*

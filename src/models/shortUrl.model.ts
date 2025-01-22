@@ -1,4 +1,3 @@
-import e from "express";
 import mongoose, { Document } from "mongoose";
 import { customAlphabet } from "nanoid"; //Özel karakterlerle kısa ID oluşturmak için kullanılır.
 
